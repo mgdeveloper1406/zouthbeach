@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"About the South Beach Diet",
             artist: "Diet",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            cover: "https://www.advancedliving.com/wp-content/uploads/2020/09/South-Beach-Diet-696x449.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://content.libsyn.com/p/2/a/0/2a071b6b2b74b60d/South_Beach_Diet_1.mp3?c_id=116583695&cs_id=116583695&response-content-type=audio%2Fmpeg&Expires=1660059096&Signature=Wza9qi8raNDFMlxypxquNZv0PV1nJX2OdnYtlJXEG4UNN1ZGa~wo9erT9lqdvtQUfJqKd0Yz~HRfjXu1y606F~kv8VErLCWPnzElUjrPvLfqeT5uybmYrhkSP7VdCWWp6QxL2wjsU5LG-hQOMI7K1d6zY-74VvL7EwKG0G4LwEG3U1hhWprg~h3KeW6Ar7DN-LX0Zaf0bWrrHmT9yCnV6onmxKvmTvRb136XjWcWXtcYYKZ7XSpjOcfjs1~rNXn8XW3YtUPpHSXRIKNKqPd7va~H-MPdV4tm4CZH0fyzp3YQDMDCln0gQGZ0sbb8hdtz5o9VfuypG7rMq3ZMm897Vw__&Key-Pair-Id=K1YS7LZGUP96OI",
